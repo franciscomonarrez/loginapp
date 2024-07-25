@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# loginapp
-=======
 # Firebase Authentication Integration
 
 ## Overview
@@ -173,4 +170,3 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 ### `npm test`
 Launches the test runner in the interactive watch mode.
->>>>>>> a2f88d0 (Reinitialize repository and add all files)
